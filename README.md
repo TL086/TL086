@@ -1,14 +1,13 @@
 <p align="center">
-  <h1 align="center">  Hi there, welcome to my profile! 👋</h1>
-  <h1 align="center">  My name is Tiago Lourenço 🔥</h1> 
+  <h1 align="center">  Hi there, my name is Tiago Lourenço 🔥</h1> 
 </p>
-<h3></h3>
-
+<h2> About</h2>
 
 
 * 🔭 I’m currently working in Proccess Engineering ⚙
 * 🌱 I’m currently learning Full stack development 🔥
-* 📫 How to reach me: 
+* 📫 How to reach me:
+
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:martins.e.louren@gmail.com)](mailto:martins.e.louren@gmail.com) |
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tiagolourenco00/)](https://www.linkedin.com/in/tiagolourenco00/) |
 [![Whatsapp Badge](https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge")](https://wa.me/+351962572125)
@@ -20,7 +19,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working as a Proccess Engineer
+- 🔭 I’m currently working as ....
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
