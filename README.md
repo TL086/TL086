@@ -6,13 +6,31 @@
 
 * 🔭 I’m currently working in Proccess Engineering ⚙
 * 🌱 I’m currently learning Full stack development 🔥
-* 📫 How to reach me:
+* 👯 I’m looking to collaborate on new challenging projects 🏆
+* ⚡ Curious fact: I'm a passionate amateur rock climber 🧗‍♂️
+ 
+* 📫 How to reach me:  [<img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:martins.e.louren@gmail.com" align="center" height="20" hspace="1"/>](mailto:martins.e.louren@gmail.com)
+[<img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tiagolourenco00/" align="center" height="20" hspace="1"/>](https://www.linkedin.com/in/tiagolourenco00/)
+[<img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" align="center" height="20" hspace="1"/>](https://wa.me/+351962572125)
 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:martins.e.louren@gmail.com)](mailto:martins.e.louren@gmail.com) |
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tiagolourenco00/)](https://www.linkedin.com/in/tiagolourenco00/) |
-[![Whatsapp Badge](https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge")](https://wa.me/+351962572125)
 
 
+## Technologies I know and I'm learning
+
+<p align="left">
+  
+[<img src="https://github.com/TL086/TL086/blob/main/icons/java.png" alt="java" align="center" height="80"/>](https://www.java.com/)
+[<img src="https://github.com/TL086/TL086/blob/main/icons/Spring.png" alt="Spring" align="center" height="60"/>](https://spring.io/)
+[<img src="https://github.com/TL086/TL086/blob/main/icons/ApTomcat.png" alt="TOMCAT" align="center" height="80"/>](https://tomcat.apache.org/)
+[<img src="https://github.com/TL086/TL086/blob/main/icons/mySql.png" alt="mySQL" align="center" width="60" height="60"/>](https://www.mysql.com/)
+</p>
+
+<p align="left">
+  
+[<img src="https://github.com/TL086/TL086/blob/main/icons/javascript.png" alt="javaScript" align="center" width="70" hspace="15"/>](https://www.javascript.com/)
+[<img src="https://github.com/TL086/TL086/blob/main/icons/HTML.png" alt="HTML" align="center" height="62" hspace="15"/>](https://html.spec.whatwg.org/multipage/)
+[<img src="https://github.com/TL086/TL086/blob/main/icons/css.png" alt="CSS" align="center" height="70" hspace="15"/>](https://www.w3.org/Style/CSS/Overview.en.html)
+</p>
 
 <!--
 **TL086/TL086** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
