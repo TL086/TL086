@@ -8,7 +8,7 @@
 * 🌱 I’m currently learning Full stack development 🔥
 * 👯 I’m looking to collaborate on new challenging projects 🏆
 * ⚡ Curious fact: I'm a passionate amateur rock climber 🧗‍♂️
-* 📇 You could check my CV [here](https://github.com/TL086/TL086/blob/main/Tiago_Lourenço_Resume_27-07-2023.pdf "here")
+* 📇 You could check my CV [here](https://github.com/TL086/TL086/blob/main/Tiago_Lourenço_Resume.pdf "here")
  
 * 📫 How to reach me:  [<img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:martins.e.louren@gmail.com" align="center" height="20" hspace="1"/>](mailto:martins.e.louren@gmail.com)
 [<img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tiagolourenco00/" align="center" height="20" hspace="1"/>](https://www.linkedin.com/in/tiagolourenco00/)
