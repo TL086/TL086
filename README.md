@@ -5,7 +5,8 @@
 
 
 * 🔭 I’m currently working in Proccess Engineering ⚙
-* 🌱 I’m currently learning Full stack development 🔥
+* 🌱 I am an Electronic Engineering graduate 🔥
+* 🌱 I am a Junior Full stack developer 💥
 * 👯 I’m looking to collaborate on new challenging projects 🏆
 * ⚡ Curious fact: I'm a passionate amateur rock climber 🧗‍♂️
 * 📇 You could check my CV [here](https://github.com/TL086/TL086/blob/main/Tiago_Lourenço_Resume.pdf "here")
