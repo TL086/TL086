@@ -34,7 +34,7 @@
 [<img src="https://github.com/TL086/TL086/blob/main/icons/javascript.png" alt="javaScript" align="center" width="70" hspace="15"/>](https://www.javascript.com/)
 [<img src="https://github.com/TL086/TL086/blob/main/icons/HTML.png" alt="HTML" align="center" height="62" hspace="15"/>](https://html.spec.whatwg.org/multipage/)
 [<img src="https://github.com/TL086/TL086/blob/main/icons/css.png" alt="CSS" align="center" height="70" hspace="15"/>](https://www.w3.org/Style/CSS/Overview.en.html)
-
+[<img src="https://github.com/TL086/TL086/blob/main/icons/SOLIDWORKS-Logo.png" alt="CSS" align="center" height="70" hspace="15"/>](https://www.solidworks.com/)
 </p>
 
 <!--
