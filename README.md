@@ -9,7 +9,7 @@
 * 🌱 I am an Electronic Engineering graduate 🔥
 * 👯 I’m looking to collaborate on new challenging projects 🏆
 * ⚡ Curious fact: I'm a passionate amateur rock climber 🧗‍♂️
-* 📇 You could check my CV [here](https://github.com/TL086/TL086/blob/main/Tiago_Lourenço_Resume.pdf "here")
+<!--* 📇 You could check my CV [here](https://github.com/TL086/TL086/blob/main/Tiago_Lourenço_Resume.pdf "here") -->
  
 * 📫 How to reach me:  [<img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:martins.e.louren@gmail.com" align="center" height="20" hspace="1"/>](mailto:martins.e.louren@gmail.com)
 [<img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tiagolourenco00/" align="center" height="20" hspace="1"/>](https://www.linkedin.com/in/tiagolourenco00/)
@@ -25,15 +25,16 @@
 [<img src="https://github.com/TL086/TL086/blob/main/icons/java.png" alt="java" align="center" height="80"/>](https://www.java.com/)
 [<img src="https://github.com/TL086/TL086/blob/main/icons/Spring.png" alt="Spring" align="center" height="60"/>](https://spring.io/)
 [<img src="https://github.com/TL086/TL086/blob/main/icons/ApTomcat.png" alt="TOMCAT" align="center" height="80"/>](https://tomcat.apache.org/)
-
+[<img src="https://github.com/TL086/TL086/blob/main/icons/mySql.png" alt="mySQL" align="center" width="60" height="60"/>](https://www.mysql.com/)
 </p>
 
 <p align="left">
   
-[<img src="https://github.com/TL086/TL086/blob/main/icons/mySql.png" alt="mySQL" align="center" width="60" height="60"/>](https://www.mysql.com/)
+
 [<img src="https://github.com/TL086/TL086/blob/main/icons/javascript.png" alt="javaScript" align="center" width="70" hspace="15"/>](https://www.javascript.com/)
 [<img src="https://github.com/TL086/TL086/blob/main/icons/HTML.png" alt="HTML" align="center" height="62" hspace="15"/>](https://html.spec.whatwg.org/multipage/)
 [<img src="https://github.com/TL086/TL086/blob/main/icons/css.png" alt="CSS" align="center" height="70" hspace="15"/>](https://www.w3.org/Style/CSS/Overview.en.html)
+
 </p>
 
 <!--
